@@ -1,0 +1,18 @@
+{
+  "name": "tripalu-weather-app",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.20.0",
+    "history": "^4.7.2",
+    "meteor-node-stubs": "~0.2.4",
+    "pubsub-js": "^1.5.7",
+    "react": "^15.6.1",
+    "react-bootstrap-typeahead": "^2.0.0-alpha.3",
+    "react-dom": "^15.6.1",
+    "react-router": "^4.2.0",
+    "sweetalert": "^2.0.3"
+  }
+}
